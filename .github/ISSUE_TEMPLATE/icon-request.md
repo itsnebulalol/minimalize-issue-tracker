@@ -2,7 +2,7 @@
 name: Icon Request
 about: Request an icon for Minimalize.
 title: "[REQUEST] App Name"
-labels: ''
+labels: request
 assignees: itsnebulalol
 
 ---

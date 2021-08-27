@@ -1,14 +1,11 @@
 ---
 name: Icon Request
 about: Request an icon for Minimalize.
-title: "[REQUEST] App Name"
+title: "[REQUEST] App Name Here"
 labels: request
 assignees: itsnebulalol
 
 ---
-
-**Name of the app to add**
-Please put the name of the app here.
 
 **Bundle ID of the app**
 Please put the bundle ID of the app here. You may find the bundle ID from Bundely on Spark’s repo. Not jailbroken? Use [this online tool](https://offcornerdev.com/bundleid.html) to fetch bundle IDs from apps on the App Store.
